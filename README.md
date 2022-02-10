@@ -1,8 +1,7 @@
 # ic-06
 ic-06 - Intro to JavaScript
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
-
+Link to GitHub Pages: https://ds4200-s22.github.io/ic-06-JoshuaJKo/
 ## Purpose
 
 The purpose of this assignment is to start learning how to use JavaScript to add interactivity to webpages.  
